@@ -1,0 +1,42 @@
+1. What does one mean by the term &quot;machine learning&quot;?
+
+2.Can you think of 4 distinct types of issues where it shines?
+
+3.What is a labeled training set, and how does it work?
+
+4.What are the two most important tasks that are supervised?
+
+5.Can you think of four examples of unsupervised tasks?
+
+6.State the machine learning model that would be best to make a robot walk through various
+unfamiliar terrains?
+
+7.Which algorithm will you use to divide your customers into different groups?
+
+8.Will you consider the problem of spam detection to be a supervised or unsupervised learning
+problem?
+
+9.What is the concept of an online learning system?
+
+10.What is out-of-core learning, and how does it differ from core learning?
+
+11.What kind of learning algorithm makes predictions using a similarity measure?
+
+12.What&#39;s the difference between a model parameter and a hyperparameter in a learning
+algorithm?
+
+13.What are the criteria that model-based learning algorithms look for? What is the most popular
+method they use to achieve success? What method do they use to make predictions?
+
+14.Can you name four of the most important Machine Learning challenges?
+
+15.What happens if the model performs well on the training data but fails to generalize the results
+to new situations? Can you think of three different options?
+
+16.What exactly is a test set, and why would you need one?
+
+17.What is a validation set&#39;s purpose?
+
+18.What precisely is the train-dev kit, when will you need it, how do you put it to use?
+
+19.What could go wrong if you use the test set to tune hyperparameters?
